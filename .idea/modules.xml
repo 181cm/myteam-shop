@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-shop-basic/my-shop-basic.iml" filepath="$PROJECT_DIR$/my-shop-basic/my-shop-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-shop-api/my-shop-regist-api/my-shop-regist-api.iml" filepath="$PROJECT_DIR$/my-shop-api/my-shop-regist-api/my-shop-regist-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshopweb/my-shop-regist-phone-web/my-shop-regist-phone-web.iml" filepath="$PROJECT_DIR$/myshopweb/my-shop-regist-phone-web/my-shop-regist-phone-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/my-shop-service/my-shop-service.iml" filepath="$PROJECT_DIR$/my-shop-service/my-shop-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/myshopweb/myshopweb.iml" filepath="$PROJECT_DIR$/myshopweb/myshopweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myteam-shop.iml" filepath="$PROJECT_DIR$/.idea/myteam-shop.iml" />

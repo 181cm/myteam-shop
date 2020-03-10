@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="my-shop-basic" />
         <module name="my-shop-regist-api" />
+        <module name="my-shop-regist-phone-web" />
         <module name="my-shop-service" />
         <module name="myshopweb" />
       </profile>
@@ -16,8 +17,14 @@
       <module name="my-shop-api" target="1.5" />
       <module name="my-shop-basic" target="1.5" />
       <module name="my-shop-regist-api" target="1.5" />
+      <module name="my-shop-regist-phone-web" target="1.8" />
       <module name="my-shop-service" target="1.5" />
       <module name="myshopweb" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="my-shop-regist-phone-web" options="-parameters" />
+    </option>
   </component>
 </project>
